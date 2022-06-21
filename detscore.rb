@@ -7,3 +7,4 @@ for i in 0...t do
         ab=z*a[1].to_i
         puts ab
 end
+#comment
